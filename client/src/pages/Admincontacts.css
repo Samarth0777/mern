@@ -1,0 +1,17 @@
+.contacts{
+    margin-top: 60px;
+}
+.admincontact{
+    height: 10%;
+
+    margin: 20px;
+    display: flex;
+    /* flex-direction: row; */
+    border: 1px solid;
+}
+label{
+    color: black;
+}
+h2{
+    margin: 0;
+}

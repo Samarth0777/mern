@@ -1,0 +1,20 @@
+.admin{
+    margin-top: 60px;
+}
+.user{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color: rgb(208, 228, 249);
+    border:1px solid black;
+    padding: 5px;
+}
+.heading{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+}
+a{
+    margin: 0;
+}

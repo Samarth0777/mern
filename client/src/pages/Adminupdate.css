@@ -1,0 +1,11 @@
+.update{
+    margin-top: 60px;
+}
+.updateform{
+    background-color: rgb(35, 35, 112);
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+}

@@ -1,0 +1,42 @@
+.signup{
+    margin-top: 60px;
+    display: flex;
+    background-image: url("form6.jpg");
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+    
+}
+.form{
+    
+    /* background-color: rgb(151, 177, 151); */
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(10px);
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    height: 70%;
+    width: 60%;
+    padding: 10px;
+    border-radius: 10px;
+}
+input{
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+}
+label{
+    padding: 5px;
+    color: white;
+}
+button{
+    color: white;
+    margin: 10px;
+}
